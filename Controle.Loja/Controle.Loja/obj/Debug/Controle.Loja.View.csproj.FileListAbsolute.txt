@@ -1,0 +1,9 @@
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\bin\Debug\Controle.Loja.exe.config
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\bin\Debug\Controle.Loja.exe
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\bin\Debug\Controle.Loja.pdb
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\obj\Debug\Controle.Loja.View.csprojResolveAssemblyReference.cache
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\obj\Debug\Controle.Loja.FrmCadastroProdutos.resources
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\obj\Debug\Controle.Loja.Properties.Resources.resources
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\obj\Debug\Controle.Loja.View.csproj.GenerateResource.Cache
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\obj\Debug\Controle.Loja.exe
+C:\Users\Humberto\Documents\GitHub\Controle.Loja\Controle.Loja\obj\Debug\Controle.Loja.pdb
